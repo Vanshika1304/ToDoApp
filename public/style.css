@@ -1,0 +1,51 @@
+.delete {
+    color: red
+}
+
+span {
+    cursor: pointer;
+}
+
+.completed {
+    text-decoration: line-through
+}
+
+#inputForm {
+    text-align: center;
+}
+
+#div1 {
+    margin-top: 100px;
+}
+
+h1 {
+    margin-left: 550px;
+    width: 400px;
+    font-family: cursive;
+    font-size: 40px;
+    color: darkolivegreen;
+}
+
+#inputField {
+    margin-left: 600px;
+    width: 300px;
+    height: 25px;
+    border-radius: 8px;
+    border-color: blue;
+}
+
+#btn {
+    margin-left: 700px;
+    height:30px;
+    width:100px;
+    background-color: rgb(207, 199, 199);
+    border-radius: 8px;
+}
+
+#todo-list {
+    margin-top: 50px;
+    margin-left: 600px;
+    font-size: 19px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkslategray;
+}
